@@ -1,0 +1,6 @@
+{
+  "name": "ReBite — AI Campus Food Waste & Redistribution Platform",
+  "description": "Save Food. Share Hope. Build a Sustainable Future. AI-powered food waste management and redistribution platform connecting students, mess managers, canteens, and NGOs.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
